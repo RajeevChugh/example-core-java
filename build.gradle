@@ -1,0 +1,4 @@
+apply plugin: 'java'
+
+group = 'com.example.helloworld'
+description = "A common project for all proteus services."
